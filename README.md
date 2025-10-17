@@ -52,8 +52,8 @@ The project uses **Machine Learning and Natural Language Processing (NLP)** to a
 
 1️⃣ Clone the repository  
 ```
-git clone https://github.com/Infant-Joshva/AI-Echo-Sentiment-Analysis.git
-cd AI-Echo-Sentiment-Analysis
+git clone https://github.com/Infant-Joshva/Project_5-AI-Echo.git
+cd Project_5-AI-Echo
 ```
 
 2️⃣ Install dependencies  
@@ -63,7 +63,7 @@ pip install -r requirements.txt
 
 3️⃣ Run the Streamlit app  
 ```
-streamlit run app/streamlit_app.py
+streamlit run app/main.py
 ```
 
 ---

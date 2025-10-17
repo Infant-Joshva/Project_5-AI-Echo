@@ -14,7 +14,7 @@ import joblib
 # 1️⃣ MODEL LOADING
 # ======================================================
 model = joblib.load(
-    "Data-Science-learning-path/Project_5(AI Echo - Sentiment Analysis)/model/model.pkl"
+    "Project_5-AI-Echo\model\model.pkl"
 )
 
 # ======================================================
@@ -23,7 +23,7 @@ model = joblib.load(
 @st.cache_data
 def load_data():
     return pd.read_csv(
-        "dataset\cleaned_senti_mapped_data.csv"
+        "Project_5-AI-Echo\dataset\cleaned_senti_mapped_data.csv"
     )
 
 review_df = load_data()

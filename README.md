@@ -46,6 +46,27 @@ The project uses **Machine Learning and Natural Language Processing (NLP)** to a
 ├── LICENSE                         # Open-source license
 └── README.md                       # Project documentation
 ```
+
+---
+
+## 📷 App Screenshots
+
+### 📄 Overview
+![Overview](https://github.com/user-attachments/assets/62d287af-c1d6-4505-b1dc-59c9e094ddb1)
+
+---
+
+### 📊 EDA Charts
+![EDA](https://github.com/user-attachments/assets/1ab8699b-e7ec-4185-b5e8-9fc1568b7483)
+
+##
+![EDA](https://github.com/user-attachments/assets/16b209a6-0235-4715-8ac0-1291b757c069)
+
+---
+
+### ⚖️ Sentiment Prediction
+![Prediction](https://github.com/user-attachments/assets/3e2c9614-36c0-46c4-a5d8-2385915d9bd3)
+
 ---
 
 ## 🚀 How to Run

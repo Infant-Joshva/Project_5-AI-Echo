@@ -65,7 +65,7 @@ The project uses **Machine Learning and Natural Language Processing (NLP)** to a
 ---
 
 ### ⚖️ Sentiment Prediction
-![Prediction](https://github.com/user-attachments/assets/3e2c9614-36c0-46c4-a5d8-2385915d9bd3)
+![Prediction](https://github.com/user-attachments/assets/af405f62-5d66-4b04-9fc4-ca40a402b883)
 
 ---
 

@@ -14,7 +14,7 @@ import joblib
 # 1️⃣ MODEL LOADING
 # ======================================================
 model = joblib.load(
-    "Project_5-AI-Echo\model\model.pkl"
+    "Project_5-AI-Echo\model\Model_log-new_data.pkl"
 )
 
 # ======================================================
